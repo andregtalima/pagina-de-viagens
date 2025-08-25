@@ -1,4 +1,4 @@
-# 🌏 Página de Viagens - Busan
+# 🌏 Página de Viagens - Desafio da Formação Full-Stack da Rocketseat
 
 Este é um projeto de página estática em **HTML e CSS** desenvolvido com foco em semântica, organização e boas práticas de estilização.
 
@@ -14,7 +14,7 @@ A proposta da página é apresentar Busan (Coreia do Sul) como destino turístic
 ---
 
 ## 🎯 Objetivos do projeto
-- Criar uma página responsiva e organizada apenas com HTML e CSS
+- Criar uma página organizada apenas com HTML e CSS
 - Usar boas práticas de semântica para melhorar acessibilidade
 - Trabalhar com variáveis CSS para manter consistência visual
 
